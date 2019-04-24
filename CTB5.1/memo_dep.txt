@@ -1,0 +1,19 @@
+# CTB5.1
+
+- References
+  - (Dyer et al. 2015) http://aclweb.org/anthology/P/P15/P15-1033.pdf
+  - (Zhang and Clark 2008) http://aclweb.org/anthology/D08-1059
+
+- Data: Chinese Treebank 5.1 (LDC2005T01U01)
+
+- Starndard data split
+  - train: 001-815,1001-1136 (16,118 sen)
+  - devel: 886-931,1148-1151 (804 sen)
+  - test:  816-885,1137-1147 (1,915 sen)
+
+- Dependency Representation
+  - Penn2Malt
+  - head-findng rules in (Zhang and Clark 2008)
+
+- Other processing
+  - use gold word segmentation results and POS tags

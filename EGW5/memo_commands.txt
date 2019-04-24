@@ -1,0 +1,6 @@
+## org -> tok
+
+SCRIPT_DIR=
+WORK_DIR=/path/to/LDC2011T07_EGW5
+
+cd $SCRIPT_DIR; ./extract_and_tokenize.sh $WORK_DIR/data/afp_eng/ $WORK_DIR/tok/org/

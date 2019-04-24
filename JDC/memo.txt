@@ -1,0 +1,21 @@
+Japanese Dependency Corpus
+
+## source
+
+http://www.ar.media.kyoto-u.ac.jp/data/word-dep/home-e.html
+http://www.ar.media.kyoto-u.ac.jp/mori/research/public/LREC14-word-dep.pdf
+
+## data splits
+
+BCCWJ  train: 2012
+       test : ClassA-1
+EHJ    train: ?? (tentative:  1-59) 
+       test : ?? (tentative: 60-65)
+NKN    train: 01-09 
+       test : 10
+RCP    train: train.file 
+       test : test.file
+JNL    train: train.file 
+       test : test.file
+NPT    train: train.file 
+       test : test.file

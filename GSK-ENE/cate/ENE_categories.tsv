@@ -1,0 +1,201 @@
+Category_Name	0th_Hierarchy	1st_Hierarchy	2nd_Hierarchy	日本語名
+Name_Other	Name			名前_その他
+Person	Name			人名
+God	Name			神名
+Organization_Other	Name	Organization		組織名_その他
+International_Organization	Name	Organization		国際組織名
+Show_Organization	Name	Organization		公演組織名
+Family	Name	Organization		家系名
+Ethnic_Group_Other	Name	Organization	Ethnic_Group	民族名_その他
+Nationality	Name	Organization	Ethnic_Group	国籍名
+Sports_Organization_Other	Name	Organization	Sports_Organization	競技組織名_その他
+Pro_Sports_Organization	Name	Organization	Sports_Organization	プロ競技組織名
+Sports_League	Name	Organization	Sports_Organization	競技リーグ名
+Corporation_Other	Name	Organization	Corporation	法人名_その他
+Company	Name	Organization	Corporation	企業名
+Company_Group	Name	Organization	Corporation	企業グループ名
+Political_Organization_Other	Name	Organization	Political_Organization	政治的組織名_その他
+Government	Name	Organization	Political_Organization	政府組織名
+Political_Party	Name	Organization	Political_Organization	政党名
+Cabinet	Name	Organization	Political_Organization	内閣名
+Military	Name	Organization	Political_Organization	軍隊名
+Location_Other	Name	Location		地名_その他
+Spa	Name	Location		温泉名
+GPE_Other	Name	Location	GPE	ＧＰＥ_その他
+City	Name	Location	GPE	市区町村名
+County	Name	Location	GPE	郡名
+Province	Name	Location	GPE	都道府県州名
+Country	Name	Location	GPE	国名
+Region_Other	Name	Location	Region	地域名_その他
+Continental_Region	Name	Location		大陸地域名
+Domestic_Region	Name	Location		国内地域名
+Geological_Region_Other	Name	Location	地形名(Geological_Region)	地形名_その他
+Mountain	Name	Location		山地名
+Island	Name	Location		島名
+River	Name	Location		河川名
+Lake	Name	Location		湖沼名
+Sea	Name	Location		海洋名
+Bay	Name	Location		湾名
+Astral_Body_Other	Name	Location	天体名(Astral_Body)	天体名_その他
+Star	Name	Location		恒星名
+Planet	Name	Location		惑星名
+Constellation	Name	Location		星座名
+Address_Other	Name	Location	アドレス(Address)	アドレス_その他
+Postal_Address	Name	Location		郵便住所
+Phone_Number	Name	Location		電話番号
+Email	Name	Location		電子メイル
+URL	Name	Location		URL
+Facility_Other	Name	Facility		施設名_その他
+Facility_Part	Name	Facility		施設部分名
+Archaeological_Place_Other	Name	Facility	Archaeological_Place	遺跡名_その他
+Tumulus	Name	Facility	Archaeological_Place	古墳名
+GOE_Other	Name	Facility	GOE	GOE_その他
+Public_Institution	Name	Facility	GOE	公共機関名
+School	Name	Facility	GOE	学校名
+Research_Institute	Name	Facility	GOE	研究機関名
+Market	Name	Facility	GOE	取引所名
+Park	Name	Facility	GOE	公園名
+Sports_Facility	Name	Facility	GOE	競技施設名
+Museum	Name	Facility	GOE	美術博物館名
+Zoo	Name	Facility	GOE	動植物園名
+Amusement_Park	Name	Facility	GOE	遊園施設名
+Theater	Name	Facility	GOE	劇場名
+Worship_Place	Name	Facility	GOE	神社寺名
+Car_Stop	Name	Facility	GOE	停車場名
+Station	Name	Facility	GOE	電車駅名
+Airport	Name	Facility	GOE	空港名
+Port	Name	Facility	GOE	港名
+Line_Other	Name	Facility	Line	路線名_その他
+Railroad	Name	Facility	Line	電車路線名
+Road	Name	Facility	Line	道路名
+Canal	Name	Facility	Line	運河名
+Water_Route	Name	Facility	Line	航路名
+Tunnel	Name	Facility	Line	トンネル名
+Bridge	Name	Facility	Line	橋名
+Product_Other	Name	Product		製品名_その他
+Material	Name	Product		材料名
+Clothing	Name	Product		衣類名
+Money_Form	Name	Product		貨幣名
+Drug	Name	Product		医薬品名
+Weapon	Name	Product		武器名
+Stock	Name	Product		株名
+Award	Name	Product		賞名
+Decoration	Name	Product		勲章名
+Offense	Name	Product		罪名
+Service	Name	Product		便名
+Class	Name	Product		等級名
+Character	Name	Product		キャラクター名
+ID_Number	Name	Product		識別番号
+Vehicle_Other	Name	Product	Vehicle	乗り物名_その他
+Car	Name	Product	Vehicle	車名
+Train	Name	Product	Vehicle	列車名
+Aircraft	Name	Product	Vehicle	飛行機名
+Spaceship	Name	Product	Vehicle	宇宙船名
+Ship	Name	Product	Vehicle	船名
+Food_Other	Name	Product	Food	食べ物名_その他
+Dish	Name	Product	Food	料理名
+Art_Other	Name	Product	Art	芸術作品名_その他
+Picture	Name	Product	Art	絵画名
+Broadcast_Program	Name	Product	Art	番組名
+Movie	Name	Product	Art	映画名
+Show	Name	Product	Art	公演名
+Music	Name	Product	Art	音楽名
+Book	Name	Product	Art	文学名
+Printing_Other	Name	Product	Printing	出版物名_その他
+Newspaper	Name	Product	Printing	新聞名
+Magazine	Name	Product	Printing	雑誌名
+Doctrine_Method_Other	Name	Product	Doctrine_Method	主義方式名_その他
+Culture	Name	Product	Doctrine_Method	文化名
+Religion	Name	Product	Doctrine_Method	宗教名
+Academic	Name	Product	Doctrine_Method	学問名
+Sport	Name	Product	Doctrine_Method	競技名
+Style	Name	Product	Doctrine_Method	流派名
+Movement	Name	Product	Doctrine_Method	運動名
+Theory	Name	Product	Doctrine_Method	理論名
+Plan	Name	Product	Doctrine_Method	政策計画名
+Rule_Other	Name	Product	Rule	規則名_その他
+Treaty	Name	Product	Rule	条約名
+Law	Name	Product	Rule	法令名
+Title_Other	Name	Product	Titile	称号名_その他
+Position_Vocation	Name	Product	Titile	地位職業名
+Language_Other	Name	Product	Language	言語名_その他
+National_Language	Name	Product	Language	国語名
+Unit_Other	Name	Product	Unit	単位名_その他
+Currency	Name	Product	Unit	通貨単位名
+Event_Other	Name	Event		イベント名_その他
+Occasion_Other	Name	Event	Occasion	催し物名_その他
+Religious_Festival	Name	Event	Occasion	例祭名
+Game	Name	Event	Occasion	競技会名
+Conference	Name	Event	Occasion	会議名
+Incident_Other	Name	Event	Incident	事故事件名_その他
+War	Name	Event	Incident	戦争名
+Natural_Phenomenon_Other	Name	Event	Natural_Phenomenon	自然現象名_その他
+Natural_Disaster	Name	Event	Natural_Phenomenon	自然災害名
+Earthquake	Name	Event	Natural_Phenomenon	地震名
+Natural_Object_Other	Name	Natural_Object		自然物名_その他
+Element	Name	Natural_Object		元素名
+Compound	Name	Natural_Object		化合物名
+Mineral	Name	Natural_Object		鉱物名
+Living_Thing_Other	Name	Natural_Object	Living_Thing	生物名_その他
+Fungus	Name	Natural_Object	Living_Thing	真菌類名
+Mollusc_Arthropod	Name	Natural_Object	Living_Thing	軟体動物_節足動物名
+Insect	Name	Natural_Object	Living_Thing	昆虫類名
+Fish	Name	Natural_Object	Living_Thing	魚類名
+Amphibia	Name	Natural_Object	Living_Thing	両生類名
+Reptile	Name	Natural_Object	Living_Thing	爬虫類名
+Bird	Name	Natural_Object	Living_Thing	鳥類名
+Mammal	Name	Natural_Object	Living_Thing	哺乳類名
+Flora	Name	Natural_Object	Living_Thing	植物名
+Living_Thing_Part_Other	Name	Natural_Object	Living_Thing_Part	生物部位名_その他
+Animal_Part	Name	Natural_Object	Living_Thing_Part	動物部位名
+Flora_Part	Name	Natural_Object	Living_Thing_Part	植物部位名
+Disease_Other	Name	Disease		病気名_その他
+Animal_Disease	Name	Disease		動物病気名
+Color_Other	Name	Color		色名_その他
+Nature_Color	Name	Color		自然色名
+Time_Top_Other	Time_Top			時間表現_その他
+Timex_Other	Time_Top	Timex		時間_その他
+Time	Time_Top	Timex		時刻表現
+Date	Time_Top	Timex		日付表現
+Day_Of_Week	Time_Top	Timex		曜日表現
+Era	Time_Top	Timex		時代表現
+Periodx_Other	Time_Top	Periodx		期間_その他
+Period_Time	Time_Top	Periodx		時刻期間
+Period_Day	Time_Top	Periodx		日数期間
+Period_Week	Time_Top	Periodx		週数期間
+Period_Month	Time_Top	Periodx		月数期間
+Period_Year	Time_Top	Periodx		年数期間
+Numex_Other	Numex			数値表現_その他
+Money	Numex			金額表現
+Stock_Index	Numex			株指標
+Point	Numex			ポイント
+Percent	Numex			割合表現
+Multiplication	Numex			倍数表現
+Frequency	Numex			頻度表現
+Age	Numex			年齢
+School_Age	Numex			学齢
+Ordinal_Number	Numex			序数
+Rank	Numex			順位表現
+Latitude_Longtitude	Numex			緯度経度
+Measurement_Other	Numex	Measurement		寸法表現_その他
+Physical_Extent	Numex	Measurement		長さ
+Space	Numex	Measurement		面積
+Volume	Numex	Measurement		体積
+Weight	Numex	Measurement		重量
+Speed	Numex	Measurement		速度
+Intensity	Numex	Measurement		密度
+Temperature	Numex	Measurement		温度
+Calorie	Numex	Measurement		カロリー
+Seismic_Intensity	Numex	Measurement		震度
+Seismic_Magnitude	Numex	Measurement		マグニチュード
+Countx_Other	Numex	Countx		個数_その他
+N_Person	Numex	Countx		人数
+N_Organization	Numex	Countx		組織数
+N_Location_Other	Numex	Countx	N_Location	場所数_その他
+N_Country	Numex	Countx	N_Location	国数
+N_Facility	Numex	Countx		施設数
+N_Product	Numex	Countx		製品数
+N_Event	Numex	Countx		イベント数
+N_Natural_Object_Other	Numex	Countx	N_Natural_Object	自然物数_その他
+N_Animal	Numex	Countx	N_Natural_Object	動物数
+N_Flora	Numex	Countx	N_Natural_Object	植物数

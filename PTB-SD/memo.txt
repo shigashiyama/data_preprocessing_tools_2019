@@ -1,0 +1,19 @@
+# PTB
+
+- References
+  - (Chen and Manning 2014) http://aclweb.org/anthology/D/D14/D14-1082.pdf
+
+- Data: Treebank-3 (LDC99T42)
+
+- starndard data split
+  - train: 02-21 (39,832 sen)
+  - devel:    22 (1,700 sen)
+  - test:     23 (2,416 sen)
+
+- Dependency Representation: Stanford Basic Dependencies
+  - Stanford parser v3.3.0
+
+- Other processing
+  - POS tags: Stanford POS tagger with ten-way jackknifing the training data
+    (models/wsj-0-18-bidirectional-distsim.tagger: accuracy 97.28%)
+  - exclude punctuation symbols for evaluation

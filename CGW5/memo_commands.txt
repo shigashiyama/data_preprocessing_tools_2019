@@ -1,0 +1,29 @@
+IN_DIR=/path/to/LDC2011T13_CGW5
+OUT_DIR=$IN_DIR/LDC2011T13_CGW5/raw
+
+################################################################
+## org -> raw
+
+cd $IN_DIR; ./extract_text.sh $IN_DIR/data/afp_cmn $OUT_DIR
+
+# 残りは省略
+
+################################################################
+## merge raw files
+
+# 約2M文ごとに分割。省略
+
+################################################################
+## raw -> seg
+
+cd $IN_DIR; ./segment_text.sh $OUT_DIR/merge/afp.raw $IN_DIR/seg_ctb/;
+
+# 残りは省略
+
+################################################################
+## seg -> dep
+
+./tag_and_parse.sh $IN_DIR/seg_ctb/div1 $IN_DIR/dep_ctb
+
+# 残りは省略
+# 1.8~2M 行以上のファイルを解析すると OOMError になる

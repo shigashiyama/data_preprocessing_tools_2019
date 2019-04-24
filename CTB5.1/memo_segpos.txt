@@ -1,0 +1,49 @@
+- (Kurita 2017) http://www.aclweb.org/anthology/P17-1111
+  - CTB5.1
+    train: 18k sens
+    cite (Jiang 2008)
+
+  - CTB7
+    train: 31k sens
+    cite (Wang 2011)
+
+- (X.Chen 2017)
+  - CTB5.1
+    train: 1-270,400-1151 (18086 sens)
+    cite (Ji&Chen2008), (Jiang 2008), (Sun&Wan 2012)
+
+  - CTB7.0
+    train: 1-4197 (41266 sens)
+    test:  4198-4411 (10181 sens)
+
+- (Y.Shao 2017)
+  - CTB5.0
+    train: 493935 words
+    cite (Jiang 2008), (Kruengkrai 2009), (Zhang&Clark 2010)
+
+* (Wang 2011) http://www.aclweb.org/anthology/I11-1035
+  - CTB5.0
+    train: 18089 sens
+    cite (Kruengkarai 2009)
+
+  - CTB7.0 
+    train: [Refer to the paper] (31131 sens)
+    dev:   [Refer to the paper] (10136 sens)
+    test:  [Refer to the paper] (10180 sens)
+
+* (Kruengkarai 2009) http://aclweb.org/anthology/P/P09/P09-1058.pdf
+  - CTB5.0 small
+    train: 1-270 (3046 sens, 75169 words) 
+    dev:   301-325 (350 sens)
+    test:  271-300 (348 sens)
+
+  - CTB5.0 large
+    train: 1-270,400-931,1001-1151 (18089 sens, 493939 words)
+    dev:   301-325 (350 sens)
+    test:  271-300 (348 sens)
+
+- (Jiang 2008) https://aclanthology.info/pdf/P/P08/P08-1102.pdf
+  - CTB5.0
+    train: 1-260 (18074 sens) <-- ??
+    dev:   271-300 (348 sens)
+    test:  301-325 (350 sens)

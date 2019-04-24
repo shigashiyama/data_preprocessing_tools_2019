@@ -1,0 +1,8 @@
+The following files can be downloaded from <https://stp.lingfil.uu.se/~nivre/research/Penn2Malt.html>.
+
+- Penn2Malt.jar 
+- headrules_yamada03.txt
+
+Headrules in <headrules_zhang07.txt> are derived from (Zhan and Clark 2008):
+
+- (Zhan and Clark 2008) Yue Zhang and Stephen Clark, A Tale of Two Parsers: investigating and combining graph-based and transition-based dependency parsing using beam-search, EMNLP, 2008
